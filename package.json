@@ -1,6 +1,6 @@
 {
-  "name": "Savage bot",
-  "description": "A savage bot",
+  "name": "Test",
+  "description": "Test",
   "version": "0.0.0",
   "main": "bot.js",
   "scripts": {
